@@ -28,9 +28,9 @@
 5) After prompt #4, we will add our newly created contact "John Doe" to the parent (sandbox) Account titled "Edge Communications"
     <br>**_Solution_** - [ContactUpdater.apex](https://github.com/freemacj/Apex-Salesforce/blob/main/ContactUpdater.apex)
 
-6) Write an Apex class which creates two new opportunity records and associates them with the Sandbox Account titled "United Oil & Gas Corp."
-    <br><Strong><em>Solution<em></Strong> - 
+6) Write an Apex class which creates two new opportunity records and associates them with the (sandbox) Account titled "United Oil & Gas Corp." Insert the new opportunity records via a try/catch block, that will attempt to catch any errors or exceptions which may occur during the DML execution.
+    <br>**_Solution_** - 
 
 <h3> - Apex Triggers - </h3>
 1) Whenever a new Account is created, create a dummy contact under the account and the dummy contact will have the name ‘Dummy’+ Account Name.
-    <br><Strong><em>Solution<em></Strong> -
+    <br>**_Solution_** -
