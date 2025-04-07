@@ -25,7 +25,7 @@
     The class should save the Contact record and return the ID of the created record.
     <br>**_Solution_** - [ContactCreator.Apex](https://github.com/freemacj/Apex-Salesforce/blob/main/ContactCreator.Apex)
 
-5) After prompt #4, we will add our newly created contact "John Doe" to the parent Sandbox Account titled "United Oil & Gas Corp."
+5) After prompt #4, we will add our newly created contact "John Doe" to the parent (sandbox) Account titled "Edge Communications"
     <br>**_Solution_** - [ContactUpdater.apex](https://github.com/freemacj/Apex-Salesforce/blob/main/ContactUpdater.apex)
 
 6) Write an Apex class which creates two new opportunity records and associates them with the Sandbox Account titled "United Oil & Gas Corp."
