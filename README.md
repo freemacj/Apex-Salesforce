@@ -31,6 +31,21 @@
 6) Write an Apex class which creates two new opportunity records and associates them with the (sandbox) Account titled "United Oil & Gas Corp." Insert the new opportunity records via a try/catch block, that will attempt to catch any errors or exceptions which may occur during the DML execution.
     <br>**_Solution_** - [OpportunityCreator.apex](https://github.com/freemacj/Apex-Salesforce/blob/main/OpportunityCreator.apex)
 
+7) Write an Apex class that counts how many Contacts are in each MailingState. Output the result as a map where the key is the state and the value is the count of Contacts in that state.
+    <br>**_Solution_** -
+
+8) Write an Apex class that lists all Opportunities grouped by the OwnerId (i.e., the Opportunity Owner). Output the Opportunity Names and Stage Names for each Owner in the debug log.
+   <br>**_Solution_** -
+
+9) Write an Apex class that calculates a discount for Opportunities where the Amount is greater than $100,000.
+
+    - If the Amount is between $100,000 and $250,000, apply a 5% discount.
+
+    - If the Amount is greater than $250,000, apply a 10% discount.
+    
+    - Return the discounted amount as the result.
+
+   <br>**_Solution_** -
 
 <h3> - Apex Triggers - </h3>
 
