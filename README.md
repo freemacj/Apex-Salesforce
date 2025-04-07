@@ -12,3 +12,14 @@
 
 3) Write an Apex class that counts the number of Opportunities in two different stages: 'Prospecting' and 'Closed Won'. The class should query the Opportunity object to find and count the number of records for each stage and output the results using System.debug().
     <br><Strong><em>Solution<em></Strong> - https://github.com/freemacj/Apex-Salesforce/blob/main/CountAllOpportunitiesPerStage.apex
+
+
+4) Write an Apex class that creates a new Contact record with the following fields:
+
+    - FirstName: 'John'
+    - LastName: 'Doe'
+    - Email: 'john.doe@example.com'
+    - Phone: '123-456-7890'
+
+    The class should save the Contact record and return the ID of the created record.
+    <br><Strong><em>Solution<em></Strong> -
