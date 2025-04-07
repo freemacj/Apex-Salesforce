@@ -23,7 +23,7 @@
     - Phone: '123-456-7890'
 
     The class should save the Contact record and return the ID of the created record.
-    <br><Strong><em>Solution<em></Strong> -
+    <br><Strong><em>Solution<em></Strong> - https://github.com/freemacj/Apex-Salesforce/blob/main/ContactCreator.Apex
 
 <h3> - Apex Triggers - </h3>
 1) Whenever a new Account is created, create a dummy contact under the account and the dummy contact will have the name ‘Dummy’+ Account Name.
